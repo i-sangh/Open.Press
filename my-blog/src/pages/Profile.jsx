@@ -30,7 +30,7 @@ export default function Subscribe() {
             <header className="w-full bg-white shadow-md">
                 <div className="max-w-7xl w-full mx-auto flex justify-between px-6 h-16">
                     <div className="flex-1"></div>
-                    <h1 className="text-2xl font-bold text-gray-900 flex items-center">Website Name Here</h1>
+                    <h1 className="text-2xl font-bold text-gray-900 flex items-center">Open Press</h1>
                     <div className="flex-1 flex justify-end items-center">
                         {isSearchOpen && (
                             <input
