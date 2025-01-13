@@ -9,7 +9,7 @@ const BlogPost = () => {
   const blogData = {
     title: "The Cost of Innovation: Why India's Manufacturing Startups Battle to Stay Relevant",
     subtitle: "Startups in India - Overcoming the Double Burden of Limited Support and Stifled Innovation. Tier-2 City Entrepreneurs Fights Copycat Trends.",
-    date: new Date('11-Jan-2025'),
+    date: new Date('13-Jan-2025'),
     author: "Harsit Gowda",
     content: [
       {
